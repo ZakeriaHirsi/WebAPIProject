@@ -1,0 +1,14 @@
+C:\Users\Zak\source\repos\WebAPIProject\WebAPIProject\bin\Debug\netcoreapp2.1\WebAPIProject.deps.json
+C:\Users\Zak\source\repos\WebAPIProject\WebAPIProject\bin\Debug\netcoreapp2.1\WebAPIProject.runtimeconfig.json
+C:\Users\Zak\source\repos\WebAPIProject\WebAPIProject\bin\Debug\netcoreapp2.1\WebAPIProject.runtimeconfig.dev.json
+C:\Users\Zak\source\repos\WebAPIProject\WebAPIProject\bin\Debug\netcoreapp2.1\WebAPIProject.dll
+C:\Users\Zak\source\repos\WebAPIProject\WebAPIProject\bin\Debug\netcoreapp2.1\WebAPIProject.pdb
+C:\Users\Zak\source\repos\WebAPIProject\WebAPIProject\obj\Debug\netcoreapp2.1\WebAPIProject.csprojAssemblyReference.cache
+C:\Users\Zak\source\repos\WebAPIProject\WebAPIProject\obj\Debug\netcoreapp2.1\WebAPIProject.csproj.CoreCompileInputs.cache
+C:\Users\Zak\source\repos\WebAPIProject\WebAPIProject\obj\Debug\netcoreapp2.1\WebAPIProject.RazorAssemblyInfo.cache
+C:\Users\Zak\source\repos\WebAPIProject\WebAPIProject\obj\Debug\netcoreapp2.1\WebAPIProject.RazorAssemblyInfo.cs
+C:\Users\Zak\source\repos\WebAPIProject\WebAPIProject\obj\Debug\netcoreapp2.1\WebAPIProject.AssemblyInfoInputs.cache
+C:\Users\Zak\source\repos\WebAPIProject\WebAPIProject\obj\Debug\netcoreapp2.1\WebAPIProject.AssemblyInfo.cs
+C:\Users\Zak\source\repos\WebAPIProject\WebAPIProject\obj\Debug\netcoreapp2.1\WebAPIProject.RazorTargetAssemblyInfo.cache
+C:\Users\Zak\source\repos\WebAPIProject\WebAPIProject\obj\Debug\netcoreapp2.1\WebAPIProject.dll
+C:\Users\Zak\source\repos\WebAPIProject\WebAPIProject\obj\Debug\netcoreapp2.1\WebAPIProject.pdb
